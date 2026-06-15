@@ -1,6 +1,10 @@
 
 Idea by me, mia did literally almost all the work dawg :sob:
 
+# currently remaking this thing for bepinex, stay tuned
+
+
+
 # Minecraft Nametags
 Minecraft inspired nametag mod for gorilla tag! <br>
 this is an awesome mod and you should keep it forever in your mods folder
