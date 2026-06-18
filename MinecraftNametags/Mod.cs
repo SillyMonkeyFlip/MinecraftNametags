@@ -17,7 +17,7 @@ namespace MinecraftNametags;
 public class Plugin : BaseUnityPlugin
 {
     public const string SIGNIFICANCE_URL =
-        "https://raw.githubusercontent.com/skyedotnet/names/refs/heads/main/significance.txt";
+        "https://raw.githubusercontent.com/skyedotnet/MinecraftNametags/refs/heads/main/significance.txt";
 
     public static Plugin Instance;
     public AssetBundle Bundle;
