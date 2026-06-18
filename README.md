@@ -28,4 +28,4 @@ A:not unless i know you
 ### Q:Will you add a platform/mod checker? <br>
 A:no, that encourages harassment, and mod checking is for larps anyway
 ### Q:Why wont it work?<br>
-A:do you have melonloader installed? if so, is it in your mods folder?
+A:do you have BepInEx installed? if so, is it in your plugins folder?
