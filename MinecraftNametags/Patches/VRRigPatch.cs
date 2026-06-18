@@ -1,5 +1,4 @@
 using HarmonyLib;
-using MelonLoader;
 using MinecraftNametags.Behaviours;
 
 namespace MinecraftNametags.Patches;
