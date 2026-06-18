@@ -1,7 +1,7 @@
 
 Idea by me, mia did literally almost all the work dawg :sob:
 
-# currently remaking this thing for bepinex, stay tuned
+# Fixed for BepInEx -Skye
 
 
 
